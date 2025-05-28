@@ -1,5 +1,5 @@
-Welcome to Trézor Documentation
-==============================
+Welcome to Trézor Hardware Wallet
+===============================
 
 .. toctree::
    :maxdepth: 2
@@ -10,35 +10,35 @@ Welcome to Trézor Documentation
    learn/getting_started
    learn/support
 
-Get Started with Trézor
-----------------------
+Get Started with Your Trézor
+-------------------------
 
-Download the app and follow the steps to get started.
+Secure your cryptocurrencies with the most trusted hardware wallet. Follow these simple steps to get started with your Trézor device.
 
 Installation Options
 ------------------
 
-* Download for desktop
-* Continue in browser
+* Download Trézor Suite
+* Buy Trézor Wallet
 
-How It Works
------------
+Setting Up Your Trézor
+--------------------
 
 1. **Download Trézor Suite**
    
-   Download the suite for desktop for the best experience, or click "Continue in browser" to open the web app.
+   Download and install Trézor Suite, our secure desktop application for managing your hardware wallet.
 
-2. **Install the app**
+2. **Connect Your Trézor**
    
-   Install the desktop app on your computer. This step isn't necessary for web app users.
+   Connect your Trézor device to your computer using the USB cable provided in the package.
 
-3. **Set up your Trézor**
+3. **Set Up Your Trézor**
    
-   Follow the steps to set up your account. This takes about 15 minutes.
+   Follow the setup wizard to initialize your device and create your recovery seed - your backup of your wallet.
 
-4. **Start using Trézor**
+4. **Secure Your Assets**
    
-   You're ready to use Trézor securely. Check our guide to learn how to get the most out of it.
+   Start securing your cryptocurrencies with your Trézor hardware wallet. Transfer and manage your assets safely.
 
 Expert Guidance
 -------------
@@ -46,5 +46,5 @@ Expert Guidance
 Get personalized help with our expert guidance service:
 
 * Personal 1:1 guide for Trézor setup
-* 60-minute live, online session
+* Secure wallet configuration assistance
 * Available for USD 99
