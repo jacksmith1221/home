@@ -1,4 +1,4 @@
-Welcome to Trézor Hardware Wallet
+Official
 ===============================
 
 .. toctree::
